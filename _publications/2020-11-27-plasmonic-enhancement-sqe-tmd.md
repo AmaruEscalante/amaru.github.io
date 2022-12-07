@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/repu-purdue-internship-2020
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-11-27
-venue: 'Journal 1'
+venue: 'Repu Seminar 2020'
 paperurl: 'https://amaruescalante.io/files/REPU-Seminar-2020-Presentation.pdf'
 citation: ''
 ---
