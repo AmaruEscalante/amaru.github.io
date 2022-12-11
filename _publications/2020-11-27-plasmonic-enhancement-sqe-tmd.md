@@ -2,7 +2,7 @@
 title: "Plasmonic enhancement of single quantum emitters (SQE) in TMDs heterostructures"
 collection: publications
 permalink: /publication/repu-purdue-internship-2020
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Presentation given on REPU Seminar 2020 about the work done in the Quantum Matter and Devices Lab at Purdue University as an intern.'
 date: 2020-11-27
 venue: 'Repu Seminar 2020'
 paperurl: 'https://amaruescalante.io/files/REPU-Seminar-2020-Presentation.pdf'
