@@ -12,6 +12,9 @@ Software Engineer interested in AI, education and entrepreneurship. I've worked 
 
 
 ---
+# My Publications
+Checkout my publications [here](https://amaruescalante.io/publications/)
+
 # My projects
 
 Checkout a demo of my vehicle recognition project [here](https://vehicle-recognition-demo.vercel.app)
