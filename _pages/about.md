@@ -17,4 +17,8 @@ Checkout my publications [here](https://amaruescalante.io/publications/)
 
 # My projects
 
-Checkout a demo of my vehicle recognition project [here](https://vehicle-recognition-demo.vercel.app)
+## Warden
+Checkout a demo of my vehicle recognition project. [Here](https://vehicle-recognition-demo.vercel.app) you can upload an image of a vehicle and infer its characteristics.
+
+App developed to handle vehicle traffic for each neighborhood where the system was deployed:
+![App Demo](https://amaruescalante.io/files/vehicle-recognition/system-app-demo.gif)
