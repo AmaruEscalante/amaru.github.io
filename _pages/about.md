@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Software Engineer with a passion for generative AI, computer vision, and entrepreneurship. I've co-founded two ventures, [Warden](wardentec.com) (originally warden.la) and [Luteach](luteach.com). While I've kept this website straightforward, I invest my time in building impactful projects like [FotosAI](app.fotosai.xyz)
----
+
 ## FotosAI
 Generate professional photos for your Linkedin or your business with one click
 <p align="center">
