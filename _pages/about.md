@@ -8,15 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Software Engineer passionate about generative AI, computer vision and entrepreneurship. I've cofounded of three ventures [Warden](https://wardentec.com) (originally warden.la) and [Luteach](https://luteach.com). Currently building [FotosAI](https://app.fotosai.xyz).
-
-
+Software Engineer with a passion for generative AI, computer vision, and entrepreneurship. I've co-founded two ventures, [Warden](wardentec.com) (originally warden.la) and [Luteach](luteach.com). While I've kept this website straightforward, I invest my time in building impactful projects like [FotosAI](app.fotosai.xyz)
 ---
-# My Publications
-Checkout my publications [here](https://amaruescalante.io/publications/)
-
-# My projects
-
 ## FotosAI
 Generate professional photos for your Linkedin or your business with one click
 <p align="center">
@@ -32,3 +25,6 @@ App developed to handle vehicle traffic for each neighborhood where the system w
 <p align="center">
   <img src="https://amaruescalante.io/files/vehicle-recognition/system-app-demo.gif" width="500">
 </p>
+
+# My Publications
+Checkout my publications [here](https://amaruescalante.io/publications/)
