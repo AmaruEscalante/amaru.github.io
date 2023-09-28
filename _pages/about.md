@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Software Engineer interested in AI, education and entrepreneurship. I've worked with hardware (microcontrollers, sensors, IoT stuff.) so I'm open to any challenge that might come with physical devices, and enjoy the software side of things. I'm cofounder of two ventures [Warden](https://wardentec.com) (originally warden.la) and [Luteach](https://luteach.com). Currently, working at [Powerflex](https://powerflex.com) as a Fullstack Developer.
+Software Engineer passionate about generative AI, computer vision and entrepreneurship. I've cofounded of three ventures [Warden](https://wardentec.com) (originally warden.la) and [Luteach](https://luteach.com). Currently building [FotosAI](https://app.fotosai.xyz).
 
 
 ---
