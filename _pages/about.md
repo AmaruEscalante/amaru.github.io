@@ -8,7 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I'm a builder with a passion for generative AI, computer vision, and entrepreneurship. I've co-founded two ventures, [Warden](http://wardentec.com) (originally warden.la) and [Luteach](https://luteach.com). I invest my time in building projects like [FotosAI](https://app.fotosai.xyz)
+I'm a builder with a passion for generative AI, computer vision, and entrepreneurship. I've co-founded two ventures, [Warden](http://wardentec.com) (originally warden.la) and [Luteach](https://luteach.com). I invest my time in building projects like [FotosAI](https://www.fotosai.xyz)
+
+As a researcher, I've worked at the intersection of electronics, machine learning and quantum materials. My research spans from practical engineering applications to material science.
+
+# My Publications
+Here are some of my key publications:
+
+- **Plasmonic Enhancement of Single Quantum Emitters in TMDs Heterostructures** (2020)  
+  Research on quantum matter devices at Purdue University, focusing on TMD heterostructures and their interaction with silver nanoparticles.
+  [View presentation](https://amarues.notion.site/Repu-Seminar-2020-Purdue-University-Internship-7f099e7ad8d645eba85fdab7f02124e5)
+
+- **Automatic Recognition of Peruvian Car License Plates** (2020)  
+  Developed an optimized k-NN classification method achieving >96% accuracy for license plate recognition.
+  [IEEE Publication](https://ieeexplore.ieee.org/document/9220217)
+
+- **Analysis of Moving Average Filter for IMU Measurements** (2018)  
+  Performance analysis of digital filtering techniques for IMU sensors on 8-bit microcontrollers.
+  [IEEE Publication](https://ieeexplore.ieee.org/document/8526391)
+
+[View all publications](https://amaruescalante.io/publications/)
+
+# My Projects
 
 ## FotosAI
 Generate professional photos for your Linkedin or your business with one click
