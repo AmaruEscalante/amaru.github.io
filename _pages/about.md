@@ -12,8 +12,9 @@ I'm a builder with a passion for generative AI, computer vision, and entrepreneu
 
 ## FotosAI
 Generate professional photos for your Linkedin or your business with one click
-<p align="center">
-  <img src="https://amaruescalante.io/files/fotosai/landing.png" width="500">
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://amaruescalante.io/files/fotosai/landing.png" width="400">
+  <img src="https://amaruescalante.io/files/fotosai/fotos.png" width="400">
 </p>
 
 
@@ -21,9 +22,16 @@ Generate professional photos for your Linkedin or your business with one click
 Checkout a demo of my vehicle recognition project. [Here](https://vehicle-recognition-demo.vercel.app) you can upload an image of a vehicle and infer its characteristics.
 App developed to handle vehicle traffic for each neighborhood where the system was deployed:
 <!-- ![App Demo](https://amaruescalante.io/files/vehicle-recognition/system-app-demo.gif) -->
-
 <p align="center">
   <img src="https://amaruescalante.io/files/vehicle-recognition/system-app-demo.gif" width="500">
+</p>
+
+
+
+## Luteach
+Luteach is a platform that helps students connect with tutors and teachers and pass their STEM classes.
+<p align="center">
+  <img src="https://amaruescalante.io/files/luteach/landing.png" width="500">
 </p>
 
 # My Publications
