@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Software Engineer with a passion for generative AI, computer vision, and entrepreneurship. I've co-founded two ventures, [Warden](http://wardentec.com) (originally warden.la) and [Luteach](https://luteach.com). While I've kept this website straightforward, I invest my time in building impactful projects like [FotosAI](https://app.fotosai.xyz)
+I'm a builder with a passion for generative AI, computer vision, and entrepreneurship. I've co-founded two ventures, [Warden](http://wardentec.com) (originally warden.la) and [Luteach](https://luteach.com). I invest my time in building projects like [FotosAI](https://app.fotosai.xyz)
 
 ## FotosAI
 Generate professional photos for your Linkedin or your business with one click
 <p align="center">
-  <img src="https://amaruescalante.io/files/fotosai/fotos.png" width="500">
+  <img src="https://amaruescalante.io/files/fotosai/landing.png" width="500">
 </p>
 
 
